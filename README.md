@@ -1,4 +1,5 @@
 <h3 align="center">Hi, I'm Andrey, frontend developer.</h3>
+<p align="center">Frontend Developer.</p>
 
 ###
 
